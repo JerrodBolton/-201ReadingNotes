@@ -23,13 +23,13 @@
 -A DOM element is something like a HTML, BODY element on a page.
 You can add classes to all of these using CSS, or interact with them using JS.
 
-- It's the tree which your code it out to understand. 
+- It's the tree which your code it out to understand.
 
 You can work w/ the DOM tree...
 
 - Like more them around
 
-####  Steps
+#### Steps
 
 1. Access the elements
 
